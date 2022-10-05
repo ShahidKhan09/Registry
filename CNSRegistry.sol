@@ -226,3 +226,4 @@ contract CNSRegistry is ICNSRegistry, ControllerRole, ERC721Burnable {
     }
 
 }
+TransparentUpgradeableProxy
